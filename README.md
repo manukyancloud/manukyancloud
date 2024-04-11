@@ -4,4 +4,4 @@ manukyancloud/manukyancloud is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->👋 Hi, I’m @manukyancloud
 - 👀 I’m interested in blockchain
-- 📫 How to reach me twitter @mahcubyan
+- 📫 How to reach me telegram @mahcubyan
